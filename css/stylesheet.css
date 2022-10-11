@@ -1,0 +1,21 @@
+h1 {
+    text-align: left;
+    color: white;
+    font-size: xx-large;
+}
+
+li {
+    color: white;
+    text-align: right;
+    list-style: none;
+    display: inline-block;
+    text-decoration: wavy;
+}
+
+header {
+    background-color: orange;
+}
+
+small {
+    color: white;
+}
